@@ -15,5 +15,4 @@ This is bound to cause trouble
 >>>>>>> updates
 #Heading 4
 
-I am creating a new file in MASTER branch
-
+I am creating a new file in feature branch
