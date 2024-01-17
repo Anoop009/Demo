@@ -19,3 +19,5 @@ I am creating a new file in feature branch
 
 #Conflit
 I am making changes in the updates branch 
+#New Conflit
+I am making changes in the update branch

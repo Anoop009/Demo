@@ -18,4 +18,4 @@ This is bound to cause trouble
 I am creating a new file in feature branch
 
 #Conflit
-I am making changes in the master 
+I am making changes in the updates branch 
