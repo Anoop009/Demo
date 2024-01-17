@@ -16,3 +16,6 @@ This is bound to cause trouble
 #Heading 4
 
 I am creating a new file in feature branch
+
+#Conflit
+I am making changes in the master 
