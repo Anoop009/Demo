@@ -25,3 +25,5 @@ I am making changes in the updates branch
 #New Conflit
 I am making changes in the update branch
 >>>>>>> updates
+
+Trying to stash the changes 
